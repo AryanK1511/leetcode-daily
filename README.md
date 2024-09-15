@@ -1,6 +1,14 @@
 # Leetcode Every Day
 
-I will practice leetcode everyday until I get a job. Today is `September 14, 2024`.
+As of `September 14, 2024`, I am in my final semester at Seneca Polytechnic and actively seeking job opportunities starting in `January 2025`.
+
+Today, I have committed to solving LeetCode problems every day until I secure a job. This repository will serve as a way to track my progress and maintain discipline throughout the journey.
+
+## My progress
+
+| Date                 | File                                    | Description                    |
+| -------------------- | --------------------------------------- | ------------------------------ |
+| `September 14, 2024` | [Week 01 / Day 01](./Week-001/Day01.py) | Solved some hashmap questions. |
 
 ## Author
 
