@@ -6,9 +6,10 @@ Today, I have committed to solving LeetCode problems every day until I secure a 
 
 ## My progress
 
-| Date                 | File                                    | Description                    |
-| -------------------- | --------------------------------------- | ------------------------------ |
-| `September 14, 2024` | [Week 01 / Day 01](./Week-001/Day01.py) | Solved some hashmap questions. |
+| Sr. No. | Date                 | File                                    | Description                         |
+| ------- | -------------------- | --------------------------------------- | ----------------------------------- |
+| **`1`** | `September 14, 2024` | [Week 01 / Day 01](./Week-001/Day01.py) | Solved some hashmap questions.      |
+| **`2`** | `September 15, 2024` | [Week 01 / Day 02](./Week-001/Day02.py) | Solved some more hashmap questions. |
 
 ## Author
 
