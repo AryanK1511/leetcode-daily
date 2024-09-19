@@ -58,10 +58,7 @@ def func2(nums: List[int], k: int):
     return count
 
 
-print(func2(nums, k))
-
-
-# print(func2())
+# print(func2(nums, k))
 
 
 """
@@ -69,46 +66,22 @@ print(func2(nums, k))
 # https://leetcode.com/problems/count-number-of-nice-subarrays/description/
 """
 
-
-def func3():
-    pass
-
-
-# print(func3())
-
-"""
-# 2260. Medium
-# https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/
-"""
+nums = [1, 1, 2, 1, 1]
+k = 3
 
 
-def func4():
-    pass
+def func3(nums: List[int], k: int):
+    d = defaultdict(int)
+    d[0] = 1
+    curr, count = 0, 0
+
+    for num in nums:
+        curr += num % 2
+        if curr - k in d:
+            count += d[curr - k]
+        d[curr] += 1
+
+    return count
 
 
-# print(func4())
-
-"""
-# 2342. Medium
-# https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/
-"""
-
-
-def func5():
-    pass
-
-
-# print(func5())
-
-
-"""
-# 2352. Medium
-# https://leetcode.com/problems/equal-row-and-column-pairs/description/
-"""
-
-
-def func6():
-    pass
-
-
-# print(func6())
+# print(func3(nums))
