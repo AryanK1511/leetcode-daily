@@ -12,7 +12,7 @@ Today, I have committed to solving LeetCode problems every day until I secure a 
 | **`2`** | `September 15, 2024` | [Week 01 / Day 02](./Week-001/Day02.py) | Solved some more hashmap questions.                                                            |
 | **`3`** | `September 16, 2024` | [Week 01 / Day 03](./Week-001/Day03.py) | Started linked lists. Solved less questions but spent some time on understanding the concepts. |
 | **`4`** | `September 14, 2024` | [Week 01 / Day 04](./Week-001/Day04.py) | Solved some more linked list questions.                                                        |
-| **`5`** | `September 15, 2024` | [Week 01 / Day 05](./Week-001/Day05.py) | Revised some `medium` hashmap questions that I used to face some probelems with.               |
+| **`5`** | `September 15, 2024` | [Week 01 / Day 05](./Week-001/Day05.py) | Revised some `medium` hashmap questions that I used to face some problems with.                |
 | **`6`** | `September 16, 2024` | [Week 01 / Day 05](./Week-001/Day06.py) | Finished hashmaps by solving some more `medium` hashmap questions.                             |
 
 ## Author
