@@ -10,9 +10,10 @@ def func1(n):
 
 # Write a recursive program that takes a limit 'n' and prints the numbers from 1 to n
 def func2(n):
-    func2_helper(n, 1)
+    func2_helper_better(n)
 
 
+# This is one way to do it
 def func2_helper(n, count):
     print(count)
 
@@ -22,7 +23,15 @@ def func2_helper(n, count):
     func2_helper(n, count + 1)
 
 
-# func2(10)
+# This is the better way to do it
+def func2_helper_better(n):
+    if n == 0:
+        return
+    func2_helper_better(n - 1)
+    print(n)
+
+
+func2(10)
 
 
 """
