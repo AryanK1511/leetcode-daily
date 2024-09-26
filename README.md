@@ -21,6 +21,7 @@ I will be following the [data structures and algorithms course on Leetcode](http
 | **`9`**  | `September 22, 2024` | [Week 02 / Day 02](./Week-002/Day02.py) | Spent some time on understanding some linked list `medium` questions.                                           |
 | **`10`** | `September 23, 2024` | [Week 02 / Day 03](./Week-002/Day03.py) | Finished linked lists with some `medium` questions.                                                             |
 | **`11`** | `September 24, 2024` | [Week 02 / Day 04](./Week-002/Day04.py) | Started the graphs and trees section of the course. Didn't do any questions as such, just some theory concepts. |
+| **`12`** | `September 25, 2024` | [Week 02 / Day 05](./Week-002/Day05.py) | Studied Recursion                                                                                               |
 
 ## Author
 
