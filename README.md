@@ -25,7 +25,8 @@ I will be following the [data structures and algorithms course on Leetcode](http
 | **`13`**  | `September 26, 2024` | [Week 02 / Day 06](./Week-002/Day06.py) | Completed video `1` and watched `2`/`11`.                                                                                                                                                |
 | **`N/A`** | `September 27, 2024` | `N/A`                                   | Didn't do anything as that would have impacted my health.                                                                                                                                |
 | **`14`**  | `September 28, 2024` | [Week 02 / Day 07](./Week-002/Day07.py) | Was very tired today as well but did not want to break the habit so I solved one binary tree question.                                                                                   |
-| **`N/A`** | `September 29, 2024` | `N/A`                                   | Didn't do anything as the whole day was spent in helping my roomate move.                                                                                                                                |
+
+The last two weeks saw great progress, but life got super busy with tons and tons of assignments, job searches, and hackathons. I wasn’t sleeping much and thought I should take a break from LeetCode until things calm down a little bit.
 
 ## Author
 
